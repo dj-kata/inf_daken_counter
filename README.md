@@ -1,4 +1,4 @@
-以下の最新版の利用を推奨します。
+以下の最新版の利用を推奨します。  
 https://github.com/dj-kata/inf_daken_counter_obsw
 
 最新版では画面取得方式を大きく変えています。  
