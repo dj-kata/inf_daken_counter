@@ -1,3 +1,11 @@
+以下の最新版の利用を推奨します。
+https://github.com/dj-kata/inf_daken_counter_obsw
+
+最新版では画面取得方式を大きく変えています。  
+OBS28以降が動かない環境では本バージョンを使わざるを得ないため、  
+本バージョンを残す目的も兼ねて最新版は別レポジトリとしています。  
+
+
 # 概要
 beatmania IIDX INFINITAS専用の打鍵カウンタです。
 
